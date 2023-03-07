@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kode-sakura.github.io/ksg-1/sitemap.xml
